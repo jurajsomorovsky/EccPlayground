@@ -5,7 +5,7 @@ Supports elliptic curves over finite fields, with  Weierstrass equation.
 ## Build
 ```bash
 $ mvn clean package
-$ java -jar target/EccPlayground-1.0-SNAPSHOT-jar-with-dependencies.jar 
+$ java -jar target/EccPlayground-1.1-SNAPSHOT-jar-with-dependencies.jar 
 ```
 
 ## Overview
