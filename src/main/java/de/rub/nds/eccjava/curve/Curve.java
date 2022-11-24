@@ -1,10 +1,11 @@
-package de.rub.nds.eccjava.curve;
+    package de.rub.nds.eccjava.curve;
 
 import de.rub.nds.eccjava.bean.AbstractBean;
+import jakarta.xml.bind.annotation.XmlRootElement;
+import jakarta.xml.bind.annotation.XmlType;
+
 import java.io.Serializable;
 import java.math.BigInteger;
-import javax.xml.bind.annotation.XmlRootElement;
-import javax.xml.bind.annotation.XmlType;
 
 /**
  *
